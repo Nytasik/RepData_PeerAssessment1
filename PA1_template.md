@@ -287,7 +287,7 @@ c[which.max(c$Average), 1]
 
 
 As we can see, the maxmum steps is in interval **835**. 
-Each hour contains 60 minutes so 835/60=13,9. So at **13:55-14:00** is the maximum steps
+
 
 Imputing missing values
 --------------------------------------------
